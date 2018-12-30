@@ -3,3 +3,8 @@
 * {
     font-family: 'Noto Sans', sans-serif;
 }
+
+.alert p {
+    margin: 0;
+    padding: 0;
+}
